@@ -21,6 +21,6 @@
     "express": "^4.17.1",
     "nodemailer": "^6.4.10",
     "sequelize": "^6.3.1",
-    "sqlite3": "^5.0.0"
+    "sqlite3": "^5.0.3"
   }
 }
